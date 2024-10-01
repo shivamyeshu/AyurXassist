@@ -48,3 +48,4 @@ For questions or feedback regarding AyurXAssist, please contact:
 - Email: [kumar04shivamy@gmail.com](mailto:kumar04shivamy@gmail.com)
 - LinkedIn: [Shivam Yeshu](https://www.linkedin.com/in/shivam-yeshu/)
 
+<Happy coding/>
